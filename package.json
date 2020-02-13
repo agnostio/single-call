@@ -1,0 +1,19 @@
+{
+  "name": "single-call",
+  "version": "1.0.0",
+  "description": "A simple utility function to prevent having a function called several times, when you need it to run once.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ameola@bitbucket.org/ameola/single-call.git"
+  },
+  "author": "Adam Meola",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/ameola/single-call#readme",
+  "dependencies": {
+    "funccon": "^5.1.3"
+  }
+}
