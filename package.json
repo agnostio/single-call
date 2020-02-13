@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://ameola@bitbucket.org/ameola/single-call.git"
+    "url": "git+https://github.com/agnostio/single-call.git"
   },
   "author": "Adam Meola",
-  "license": "ISC",
-  "homepage": "https://bitbucket.org/ameola/single-call#readme",
-  "dependencies": {
-    "funccon": "^5.1.3"
-  }
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agnostio/single-call/issues"
+  },
+  "homepage": "https://github.com/agnostio/single-call#readme"
 }
